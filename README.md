@@ -1,8 +1,7 @@
 ### Hey! I'm Sebastian Rangel 😊
 I'm a Mechatronic Engineering Student at Universidad Autónoma de Occidente (UAO) in Cali - Colombia.
 
-I'm a passionate for robotics, specially on ground mobile rovers, aerial (UAV) and underwater robots (ROV). Currently i'm beggining a process to develop navigation and mapping systems for autonomous vehicles.
-<br/>
+I'm a passionate for robotics, specially on ground mobile rovers, aerial (UAV) and underwater robots (ROV). Currently i'm beggining a process to develop navigation and mapping systems for autonomous vehicles.<br/>
 I like to try to challenge myself everyday in order to grow my academic and professional skills 🤘🏻.
 
 - I'm currently working with [Kiwibot][website] on its next version (Food develivery Robots - Mapping Systems) 🦾.
@@ -11,9 +10,9 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 
 [website]: https://kiwibot.com/
 
-### **Languages and Tools**:
-
 <br/>
+
+### **Languages and Tools**:
 
 [<img align="middle" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
 &nbsp;&nbsp;[<img align="middle" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python]
@@ -31,7 +30,6 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 &nbsp;&nbsp;[<img align="middle" alt="github" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" />][github]
 &nbsp;&nbsp;[<img align="middle" alt="arduino" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XbpDr_mjH49xb5uq36h6VLT3-pOnN8wq0Q&usqp=CAU" />][arduino]
 &nbsp;&nbsp;[<img align="middle" alt="matlab" height="30px" src="https://doc.opendtect.org/6.0.0/doc/od_userdoc/content/resources/images/appendix_f/matlab.jpeg" />][matlab]
-
 
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
