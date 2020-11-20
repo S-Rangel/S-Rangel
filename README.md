@@ -10,8 +10,6 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 
 [website]: https://kiwibot.com/
 
-<br/>
-
 ### **Languages and Tools**:
 
 [<img align="middle" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
