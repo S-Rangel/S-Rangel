@@ -45,7 +45,3 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 [github]: https://github.com/
 [arduino]: https://www.arduino.cc/
 [matlab]: https://www.mathworks.com/
-
-<br/>
-<br/>
-<br/>
