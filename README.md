@@ -41,12 +41,12 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 [docker]: https://www.docker.com/
 [yolo]: https://www.atlassian.com
 [tensorflow]: https://www.tensorflow.org/
-[keras]: https://www.keras.io/
-[pytorch]: https://www.pytorch.org/
-[jupyter]: https://www.jupyter.org/
-[github]: https://www.github.com/
+[keras]: https://keras.io/
+[pytorch]: https://pytorch.org/
+[jupyter]: https://jupyter.org/
+[github]: https://github.com/
 [arduino]: https://www.arduino.cc/
 [matlab]: https://www.mathworks.com/
-[netbeans]: https://www.netbeans.org/
+[netbeans]: https://netbeans.org/
 [java]: https://www.java.com/
 <br/>
