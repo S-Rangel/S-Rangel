@@ -37,7 +37,7 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 [ros2]: https://index.ros.org/doc/ros2/
 [gazebo]: http://www.gazebosim.org/
 [rviz]: http://wiki.ros.org/rviz
-[opencv]: https://www.opencv.org/
+[opencv]: https://opencv.org/
 [docker]: https://www.docker.com/
 [yolo]: https://pjreddie.com/darknet/yolo/
 [tensorflow]: https://www.tensorflow.org/
