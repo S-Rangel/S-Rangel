@@ -1,4 +1,4 @@
-### Hey! I'm Sebastian Rangel 😊
+## Hey! I'm Sebastian Rangel 😊
 I'm a Mechatronic Engineering Student at Universidad Autónoma de Occidente (UAO) in Cali - Colombia.
 
 I'm a passionate for robotics, specially on ground mobile rovers, aerial (UAV) and underwater robots (ROV). Currently i'm beggining a process to develop navigation and mapping systems for autonomous vehicles.<br/>
