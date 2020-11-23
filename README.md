@@ -39,7 +39,7 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 [rviz]: http://wiki.ros.org/rviz
 [opencv]: https://www.opencv.org/
 [docker]: https://www.docker.com/
-[yolo]: https://www.atlassian.com
+[yolo]: https://pjreddie.com/darknet/yolo/
 [tensorflow]: https://www.tensorflow.org/
 [keras]: https://keras.io/
 [pytorch]: https://pytorch.org/
