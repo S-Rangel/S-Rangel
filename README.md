@@ -18,7 +18,7 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 &nbsp;&nbsp;[<img align="middle" alt="ROS2" height="33px" src="https://avatars3.githubusercontent.com/u/3979232?s=400&v=4" />][ros2]
 &nbsp;&nbsp;[<img align="middle" alt="gazebo" height="30px" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />][gazebo]
 &nbsp;&nbsp;[<img align="middle" alt="rviz" height="37px" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />][rviz]
-&nbsp;&nbsp;[<img align="middle" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
+&nbsp;&nbsp;[<img align="middle" alt="opencv" height="33px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black_.png" />][opencv]
 &nbsp;&nbsp;[<img align="middle" alt="docker" height="30px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />][docker]
 &nbsp;&nbsp;[<img align="middle" alt="yolo" height="25px" src="https://img.favpng.com/5/13/4/yolo-object-detection-darknet-opencv-convolutional-neural-network-png-favpng-j7FKX339NgCi1RcH8Sbs5ecHS.jpg" />][yolo]
 &nbsp;&nbsp;[<img align="middle" alt="tensorflow" height="33px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />][tensorflow]
