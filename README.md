@@ -21,7 +21,7 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 &nbsp;&nbsp;[<img align="middle" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
 &nbsp;&nbsp;[<img align="middle" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
 &nbsp;&nbsp;[<img align="middle" alt="yolo" height="30px" src="https://img.favpng.com/5/13/4/yolo-object-detection-darknet-opencv-convolutional-neural-network-png-favpng-j7FKX339NgCi1RcH8Sbs5ecHS.jpg" />][yolo]
-&nbsp;&nbsp;[<img align="middle" alt="tensorflow" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
+&nbsp;&nbsp;[<img align="middle" alt="tensorflow" height="30px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />][tensorflow]
 &nbsp;&nbsp;[<img align="middle" alt="keras" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" />][keras]
 &nbsp;&nbsp;[<img align="middle" alt="pytorch" height="30px" src="https://miro.medium.com/max/1200/1*bBS_lYMoWhiyJf733Bghwg.jpeg" />][pytorch]
 &nbsp;&nbsp;[<img align="middle" alt="jupyter" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupyter]
