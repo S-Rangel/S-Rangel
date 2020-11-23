@@ -27,9 +27,9 @@ I like to try to challenge myself everyday in order to grow my academic and prof
 &nbsp;&nbsp;[<img align="middle" alt="jupyter" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jupyter]
 &nbsp;&nbsp;[<img align="middle" alt="github" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" />][github]
 &nbsp;&nbsp;[<img align="middle" alt="arduino" height="33px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XbpDr_mjH49xb5uq36h6VLT3-pOnN8wq0Q&usqp=CAU" />][arduino]
-&nbsp;&nbsp;[<img align="middle" alt="matlab" height="30px" src="https://doc.opendtect.org/6.0.0/doc/od_userdoc/content/resources/images/appendix_f/matlab.jpeg" />][matlab]
-&nbsp;&nbsp;[<img align="middle" alt="netbeans" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
-&nbsp;&nbsp;[<img align="middle" alt="java" height="30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />][java]
+&nbsp;&nbsp;[<img align="middle" alt="matlab" height="33px" src="https://doc.opendtect.org/6.0.0/doc/od_userdoc/content/resources/images/appendix_f/matlab.jpeg" />][matlab]
+&nbsp;&nbsp;[<img align="middle" alt="netbeans" height="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
+&nbsp;&nbsp;[<img align="middle" alt="java" height="33px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />][java]
 
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
